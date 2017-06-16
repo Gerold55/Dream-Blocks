@@ -1,0 +1,32 @@
+html{
+text-align: center;
+}
+body {
+margin: 30;
+padding: 10;
+text-align: left;
+font-family:"Lucida Console", Courier, monospace;
+font-size: 13px;
+color: #0A05FF;
+background-image: url("back.png");
+}
+p {text-align: left;}
+h1
+{
+position:relative;
+color:#0000FF;
+text-align:center;
+font-size:50px;
+font-weight:bold;
+font-family:"Lucida Console", Courier, monospace;
+background-color:#F7e5e3;
+}
+button
+{
+position:relative;
+color:#0000FF;
+text-align:center;
+font-size:20px;
+font-family:"Lucida Console", Courier, monospace;
+background-color:#F7e5e3;
+}
