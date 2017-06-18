@@ -21,6 +21,25 @@ font-weight:bold;
 font-family:"Lucida Console", Courier, monospace;
 background-color:#F7e5e3;
 }
+h2
+{
+position:relative;
+color:#0000FF;
+text-align:center;
+font-size:30px;
+font-weight:bold;
+font-family:"Lucida Console", Courier, monospace;
+background-color:#F7e5e3;
+}
+h3
+{
+position:relative;
+color:#0000FF;
+text-align:center;
+font-size:25px;
+font-family:"Lucida Console", Courier, monospace;
+background-color:#F7e5e3;
+}
 button
 {
 position:relative;
@@ -31,10 +50,10 @@ font-family:"Lucida Console", Courier, monospace;
 background-color:#F7e5e3;
 }
 blockquote {
-font-size:10px;
-text-align:justify;
-width:600px;
-color:#0A15FF;
+font-size:16px;
+text-align:left;
+width:800px;
+color:#0A25FF;
 padding:12px;
 background-image:url(https://raw.githubusercontent.com/azekillDIABLO/Dream-Blocks/master/info.png);
 background-repeat:no-repeat;
