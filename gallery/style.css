@@ -57,3 +57,8 @@ padding:12px;
 background-image:url(https://raw.githubusercontent.com/azekillDIABLO/Dream-Blocks/master/info.png);
 background-repeat:no-repeat;
 }
+.middle
+{
+text-align:center;
+display:block;
+}
